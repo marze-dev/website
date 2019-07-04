@@ -220,9 +220,15 @@ button, input[type="submit"], input[type="reset"] {
     z-index: 1;
 }
 
-@media (max-width:991px){     
+@media (max-width:990px){     
     .img-logo{
     margin: 0 10px 0 auto;
     width: 50%;
-    }    
+    }   
+    
+    .main .logo
+    {
+        margin-top: 10vh;
+    }
+    
 }
