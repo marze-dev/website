@@ -1,7 +1,4 @@
 
-body{
-    
-}
 .form-control::-moz-placeholder{
    color: #DDDDDD;
    opacity: 1;
@@ -127,7 +124,7 @@ button, input[type="submit"], input[type="reset"] {
     z-index: 1;
 }
 .cover.black{
-    background-color: rgba(0,0,0,.8);
+    background-color: rgba(0,0,0,.7);
 }
 
 
